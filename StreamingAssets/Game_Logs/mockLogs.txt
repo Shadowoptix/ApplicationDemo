@@ -1,0 +1,8 @@
+Paramedic Game Logging 
+
+Retrieve case information
+Retrieve medical history
+Direct pressure
+Tourniquet
+Hemostatic agent
+Pressure dressing
